@@ -108,14 +108,11 @@ These aren't small issues. They are structural problems that **no amount of clea
 
 ```
 .
-├── data/
-│   └── Cost_of_Living_and_Income_Extended.csv   # Raw dataset (Kaggle)
-├── scripts/
-│   └── ProjectScript_Tanmoy.R                   # Full CRISP-DM pipeline in R
-├── reports/
-│   ├── Project_Report_Tanmoy.pdf                # Full written report
-│   └── Final_Project_Presentation_Tanmoy.pptx   # Final presentation deck
-└── README.md
+├──  Cost_of_Living_and_Income_Extended.csv      # Raw dataset (Kaggle)
+├──  ProjectScript_Tanmoy.R                      # Full CRISP-DM pipeline in R
+├──  Project_Report_Tanmoy.pdf                   # Full written report
+├──  Final_Project_Presentation_Tanmoy.pptx      # Final presentation deck
+└──  README.md
 ```
 
 > Adjust the folder paths above to match your repo if you push the files flat.
